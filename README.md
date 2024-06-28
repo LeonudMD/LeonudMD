@@ -73,4 +73,12 @@
 </div>
 <h1 align="center">Спасибо за внимание</h1>
 
+###
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=LeonudMD&&style=flat-square" align="center" />
+</div>  
+
+###
+
 
