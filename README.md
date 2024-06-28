@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDQ5NWV2d2NibG5kMGtwY3hqcXdqMDlhNHJ2OHR3amQzM2ZnMWhsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" align="center" height="300" width="1000" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhnMW9ueGViZjRjdmU3aDZ3dTZjbHgwc3M5c2IzMnMxc3VpOHF1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" align="center" height="300" width="700" />
 </div>
 
 <h1 align="center">Привет, я Лёня 👋</h1>
@@ -36,21 +36,41 @@
 
 <br/>
 
+## 📈 Моя статистика
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LeonudMD&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonudMD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonudMD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br/>
+
 ## 📫 Связаться со мной
 <div align="center">
   <a href="https://github.com/LeonudMD" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
+  
+  <a href="https://t.me/Leonud_Z" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25"         alt="telegram logo"  />
+  </a>
 </div>
 
 <br/>
 
-## 📊 GitHub статистика
+<h1 align="center">Спасибо за внимание</h1>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonudMD&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonudMD&hide_border=true&layout=compact&theme=dark" align="center" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=LeonudMD&theme=dark&hide_border=true" align="center" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTh3MWMzcm5vdWRuZDNxMjZpMmplMjUwNHdteHlsaGozcTN6ZWNjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ffIYwJoEpVcMOYiO/giphy.gif" align="center" height="300" width="600" />
 </div>
-
-<br/>
-
