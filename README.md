@@ -65,12 +65,12 @@
   </a>
 </div>
 
-<br/>
+<h1 align="center"></h1>
 
-<h1 align="center">Спасибо за внимание</h1>
-
-<br/>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTh3MWMzcm5vdWRuZDNxMjZpMmplMjUwNHdteHlsaGozcTN6ZWNjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ffIYwJoEpVcMOYiO/giphy.gif" align="center" height="300" width="600" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDR5YTQ2aDlnOGt4bzI3bmphb2czeXhmdm1uY2k1djVjZ254NXh4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" align="center" height="300" width="600" />
 </div>
+<h1 align="center">Спасибо за внимание</h1>
+
+
