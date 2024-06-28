@@ -2,11 +2,11 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhnMW9ueGViZjRjdmU3aDZ3dTZjbHgwc3M5c2IzMnMxc3VpOHF1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" align="center" height="300" width="700" />
 </div>
 
-<h1 align="center">Привет, я Лёня 👋</h1>
+<h1 align="center">Привет, я Лёня 👉👈</h1>
 
 ### 🌟 О себе
 - Студент 3-го курса "Программной инженерии" ПГУ
-- Стремлюсь стать Java Backend Developer
+- Пытаюсь стать Java Backend Developer
 
 <br/>
 
@@ -57,11 +57,11 @@
 ## 📫 Связаться со мной
 <div align="center">
   <a href="https://github.com/LeonudMD" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin: 5px;" />
   </a>
   
   <a href="https://t.me/Leonud_Z" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25"         alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;  alt="telegram logo"  />
   </a>
 </div>
 
