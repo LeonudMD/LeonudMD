@@ -61,6 +61,13 @@
 
 ###
 
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonudMD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="Graph"/>
+</div>
+
+
+###
+
 <br/>
 
 ## 📫 Связаться со мной
