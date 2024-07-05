@@ -47,8 +47,8 @@
 
 ## 📂 Лучшие открытые проеткты
 <div align="center">
-    <a href="https://github.com/LeonudMD/weatherForecastWebsite" style="margin: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonudMD&repo=KR_StockApp&theme=dracula" alt="Weather Forecast Website"/>
+    <a href="https://github.com/LeonudMD/KR_StockApp" style="margin: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonudMD&repo=KR_StockApp&theme=dracula" alt="KR StockApp"/>
     </a>
     <a href="https://github.com/LeonudMD/Kladovochka_TG_Bot_0" style="margin: 20px;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonudMD&repo=Kladovochka_TG_Bot_0&theme=dracula" alt="Kladovochka TG Bot"/>
