@@ -48,10 +48,10 @@
 ## 📂 Лучшие открытые проеткты
 <div align="center">
     <a href="https://github.com/LeonudMD/KR_StockApp" style="margin: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonudMD&repo=KR_StockApp&theme=rose_pine" alt="KR StockApp"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonudMD&repo=KR_StockApp&theme=blue-green" alt="KR StockApp"/>
     </a>
     <a href="https://github.com/LeonudMD/Kladovochka_TG_Bot_0" style="margin: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonudMD&repo=Kladovochka_TG_Bot_0&theme=rose_pine" alt="Kladovochka TG Bot"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonudMD&repo=Kladovochka_TG_Bot_0&theme=blue-green" alt="Kladovochka TG Bot"/>
     </a>
 </div>
 
@@ -59,20 +59,20 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LeonudMD&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=LeonudMD&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonudMD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonudMD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonudMD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonudMD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonudMD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonudMD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" alt="Graph"/>
 </div>
 
 
