@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhnMW9ueGViZjRjdmU3aDZ3dTZjbHgwc3M5c2IzMnMxc3VpOHF1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" align="center" height="300" width="700" />
 </div>
 
-<h1 align="center">Привет, я Лёня <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemYxcmF0NHU2dW4yZGNua2hxODlweHF1ZXhjd2ppNTRiYWh4ejc5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8m4gPv1UFz1jmiCtKd/giphy.gif" width="45px"></h1>
+<h1 align="center">Привет, я Лёня<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemYxcmF0NHU2dW4yZGNua2hxODlweHF1ZXhjd2ppNTRiYWh4ejc5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8m4gPv1UFz1jmiCtKd/giphy.gif" width="45px"></h1>
 
 ### 🌟 О себе
 - Студент 3-го курса "Программной инженерии" ПГУ
