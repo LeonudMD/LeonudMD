@@ -5,7 +5,7 @@
 <h1 align="center">Привет, я Лёня<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemYxcmF0NHU2dW4yZGNua2hxODlweHF1ZXhjd2ppNTRiYWh4ejc5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8m4gPv1UFz1jmiCtKd/giphy.gif" width="45px"></h1>
 
 ### 🌟 О себе
-- Студент 3-го курса "Программной инженерии" ПГУ
+- Студент 3-го курса "Программной инженерии"  ПГУ   
 - Пытаюсь стать Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65px">.
 
 <br/>
