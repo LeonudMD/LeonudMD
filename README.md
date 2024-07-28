@@ -49,7 +49,7 @@
 ## 📂 Лучшие открытые проеткты
 <div align="center">
     <a href="https://github.com/LeonudMD/KR_StockApp" style="margin: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonudMD&repo=KR_StockApp&theme=ocean_dark" alt="KR StockApp"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonudMD&repo=File-Manager&theme=ocean_dark" alt="KR StockApp"/>
     </a>
     <a href="https://github.com/LeonudMD/Kladovochka_TG_Bot_0" style="margin: 20px;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonudMD&repo=Kladovochka_TG_Bot_0&theme=ocean_dark" alt="Kladovochka TG Bot"/>
