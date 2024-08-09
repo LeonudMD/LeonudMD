@@ -104,7 +104,7 @@
 ###
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=LeonudMD&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=LeonudMD&&style=for-the-badge&color=blue" alt="" />
 </div>  
 
 ###
