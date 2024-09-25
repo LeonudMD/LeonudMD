@@ -6,7 +6,7 @@
 
 ### 🌟 О себе
 - Студент 3-го курса "Программной инженерии"  ПГУ   
-- Пытаюсь стать Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65px">.
+- Пытаюсь стать Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65px">.
 
 <br/>
 
